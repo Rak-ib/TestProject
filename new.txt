@@ -1,2 +1,2 @@
 hey 
-firsts create dev branch (talking from main)
+firsts create dev branch (talking from main branch)
